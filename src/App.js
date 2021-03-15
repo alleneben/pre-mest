@@ -17,6 +17,7 @@
 // import Counter from './components/state/counter';
 
 import Home from './components/pages/home';
+import Login from "./components/pages/login";
 
 function App() {
 
@@ -40,7 +41,8 @@ function App() {
 
       {/* <Counter /> */}
 
-      <Home />
+      {/* <Home /> */}
+      <Login />
 
     </div>
 
