@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 
 
-import Button from '../appcomponents/button';
-import Navbar from '../appcomponents/navbar'
+import Button from '../../appcomponents/button';
+import Navbar from '../../appcomponents/navbar'
 
 
 function Home() {

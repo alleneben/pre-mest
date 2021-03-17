@@ -16,8 +16,8 @@
 // import Dashboard from './components/propdrilling/dashboard';
 // import Counter from './components/state/counter';
 
-import Home from './components/pages/home';
-import Login from "./components/pages/login";
+import Home from './components/pages/home/home';
+import Login from "./components/pages/login/login";
 
 function App() {
 
